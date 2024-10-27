@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abhileshk/my-react-app.git/static/css/main.239427d7.css",
+    "main.js": "/abhileshk/my-react-app.git/static/js/main.69162958.js",
+    "index.html": "/abhileshk/my-react-app.git/index.html",
+    "main.239427d7.css.map": "/abhileshk/my-react-app.git/static/css/main.239427d7.css.map",
+    "main.69162958.js.map": "/abhileshk/my-react-app.git/static/js/main.69162958.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239427d7.css",
+    "static/js/main.69162958.js"
+  ]
+}
